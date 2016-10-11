@@ -1,0 +1,38 @@
+body {
+  background-color: #D2D2D2;
+}
+.container{
+backgroud-color: #D2D2D2;
+
+}
+.row {
+    margin-top: 10px;
+}
+.my-col {
+    background-color: #d2d2d2;
+    display: flex;
+}
+.block-header {
+    color: #00becc;
+    font-size: 1.6em;
+    font-weight: 600;
+}
+.inside-col {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #9ca4a4;
+    height: auto;
+    margin: auto 5% 5%;
+    padding: 5%;
+    width: 80%;
+}
+p {
+    color: #9a9a9a;
+    font-size: 1.3em;
+}
+hr {
+    width: auto;
+}
+.toggleBlock{
+  display: none;
+
+}
